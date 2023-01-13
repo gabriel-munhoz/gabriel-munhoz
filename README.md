@@ -17,3 +17,4 @@ Utilizei e ainda utilizo o Github para a gestão de projetos, mas também tenho 
 </div>
 
 ![Snake animation](https://github.com/gabriel-munhoz/gabriel-munhoz/blob/output/github-contribution-grid-snake.svg)
+ 
