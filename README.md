@@ -16,4 +16,4 @@ Utilizei e ainda utilizo o Github para a gestão de projetos, mas também tenho 
 <a href = "mailto:grmunhoz7@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/6901/6901147.png" width="40" height="40" target="_blank"></a>
 </div>
 
-![Snake animation](https://github.com/gabriel-munhoz/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/gabriel-munhoz/gabriel-munhoz/blob/output/github-contribution-grid-snake.svg)
