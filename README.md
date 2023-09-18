@@ -2,11 +2,11 @@
 
 ## Sou Gabriel Munhoz, mas pode me chamar de Munhoz,
 
-Um homem simples que gosta de usar terno e gravata e ir para o escritório, e que também gosta de usar camisas e bermudas no home-office. Gosto muito de gestão de projetos e desenvolvimento de software, mas o que adoro é fazer a diferença em médias e pequenas empresas e encantar as pessoas.
+Um homem simples que gosta de usar social para ir ao escritório, mas também gosta de usar camiseta e bermuda no home-office. Gosto muito de gerenciamento de projetos e desenvolvimento de software, sou muito bom em relacionamento com o cliente e sempre resolvo os problemas com calma e ideias inovadoras.
 
-Sou brasileiro e falo português nativo, também tenho um inglês avançado e sei um pouco de espanhol. Trabalho muito bem com programas do Microsoft Office, principalmente o Excel. Tenho certificação Yellow Belt e sou Scrum Fundamentals Certified (SFC), mas estou à procura de ser Professional Scrum Master (PSM I) da Scrum.org.
+Sou brasileiro e falo português nativo, também tenho inglês avançado e sei um pouco de espanhol. Trabalho muito bem com os programas do Microsoft Office, especialmente o Excel. Tenho certificação Yellow Belt e Scrum Fundamentals Certified (SFC), mas quero aprimorar ainda mais meus conhecimentos em gerenciamento de projetos com uma pós-graduação e certificações.
 
-Utilizei e ainda utilizo o Github para a gestão de projetos, mas também tenho alguma experiência utilizando Trello e Microsoft Projects.
+Tenho usado o Excel e Github para gerenciamento de projetos, mas também tenho alguma experiência com o Trello e o Microsoft Projects.
 
 ### Onde pode me encontrar
 
